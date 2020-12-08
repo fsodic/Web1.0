@@ -17,3 +17,16 @@ Repo File: `hosts`
 
 Windows:
 `C:/Windows/System32/drivers/etc`
+
+# Materi tentang CMS:
+
+## Client Side
+- HTML
+- CSS
+- Javascript
+- JQuery
+
+## Server Side
+- Apache
+- PHP
+- MariaDB (MySQLi)
