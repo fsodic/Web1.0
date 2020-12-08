@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /
+RewriteRule ^admin/(.*)$ index.php?admin=$1 [QSA]
+
+<FilesMatch ".(woff|woff2|eot|ttf|svg)$">
+	Header set Access-Control-Allow-Origin "*"
+</FilesMatch>
