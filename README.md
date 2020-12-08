@@ -1,6 +1,11 @@
-#HTTPD
+# HTTPD
+
 Jika Folder diluar Xampp silahkan tambahkan:
 
-`<Directory "E:/web1.0">
+`<Directory "<!-- Folder disini -->">
   Require all granted
 </Directory>`
+
+# Hosts
+Windows: Berada di 
+`C:/Windows/System32/drivers/etc`
